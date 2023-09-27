@@ -1,0 +1,39 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+.eee i {
+    color: red;
+}
+
+/*task2*/
+.eee .bbb {
+	font-family: Arial;
+    font-weight: bold;
+}
+
+/*task3*/
+.eee h2 {
+	color: red;
+}
+
+/*task4*/
+.ccc h2.bbb {
+	color: red;
+}
+
+/*task5*/
+.ccc h3.bbb {
+	color: red;
+}
+
+/*task6*/
+.ccc p.bbb {
+	color: red;
+}
+
+/*task7*/
+.ccc .bbb .kkk {
+	color: red;
+}

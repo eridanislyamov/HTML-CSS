@@ -1,0 +1,18 @@
+/* task 1
+p {
+    font: 13px/20px "Times New Roman";
+}
+*/
+
+/* task 2
+p {
+    width: 300px;
+    color: red;
+    font: bold 40px Arial;
+}
+*/
+
+p {
+    text-indent: 50px;
+    font: bold italic 40px/60px Arial;
+}

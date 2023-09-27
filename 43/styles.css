@@ -1,0 +1,7 @@
+.task {
+    color: green;
+}
+
+#elem ~ li {
+    color: red;
+}

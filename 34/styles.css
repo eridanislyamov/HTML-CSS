@@ -1,0 +1,30 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+/*task2*/
+.num1 {
+    font-family: 'Gill Sans';
+}
+
+.num2 {
+    color: aqua;
+}
+
+.num3 {
+    font-size: 50px;
+}

@@ -1,0 +1,23 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#elem1 h2 {
+    color: red;
+}
+
+/*task2*/
+#elem2 .text {
+    color: rgb(255, 0, 242);
+}
+
+/*task3*/
+#elem3 p.text {
+    color: brown;
+}
+
+/*task4*/
+#elem4 li.text {
+    color: rgb(203, 10, 42);
+}

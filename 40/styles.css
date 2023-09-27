@@ -1,0 +1,90 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+div p {
+    color: rebeccapurple;
+    font-size: 25px;
+}
+
+/*task2*/
+div h2 {
+    color: rebeccapurple;
+    font-size: 50px;
+}
+
+/*task3*/
+#block p {
+    color: rgb(255, 0, 132);
+}
+
+/*task4*/
+#block h2 {
+    color: rgb(255, 0, 0);
+}
+
+/*task5*/
+.bbb {
+    color: rgb(42, 101, 165);
+}
+
+/*task6*/
+#block .bbb {
+    color: chartreuse;
+}
+
+/*task7*/
+p.bbb {
+    color: aquamarine;
+}
+
+/*task8*/
+h2.bbb {
+    color: aquamarine;
+}
+
+/*task9*/
+#block p.bbb {
+    color: aquamarine;
+}
+
+/*task10*/
+.bbb, .xxx {
+    color: aquamarine;
+}
+
+/*task11*/
+p.bbb, h2.xxx {
+    color: aquamarine;
+}
+
+/*task12*/
+#block p.bbb, #block p.xxx {
+    color: aquamarine;
+}
+
+/*task13*/
+.fff {
+    color: aquamarine;
+}
+
+/*task14*/
+.fff p {
+    color: aquamarine;
+}
+
+/*task15*/
+p.fff {
+    color: aquamarine;
+}
+
+/*task16*/
+.fff .bbb {
+    color: aquamarine;
+}
+
+/*task17*/
+.fff h2.bbb {
+    color: aquamarine;
+}

@@ -1,0 +1,78 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+.aaa.bbb {
+	color: red;
+}
+
+/*task2*/
+h2.ccc.ddd {
+	color: red;
+}
+
+/*task3*/
+#elem3.bbb {
+	color: red;
+}
+
+/*task4*/
+#elem4.bbb.zzz {
+	color: red;
+}
+
+/*task5*/
+h2#elem5.uuu {
+	color: red;
+}
+
+/*task6*/
+h2.zzz {
+	color: red;
+}
+
+/*task7*/
+h2 .zzz {
+	color: red;
+}
+
+/*task8*/
+.aaa.zzz {
+	color: red;
+}
+
+/*task9*/
+.aaa .bbb {
+	color: red;
+}
+
+/*task10*/
+.ggg.fff.hhh {
+	color: red;
+}
+
+/*task11*/
+.ggg .fff.hhh {
+	color: red;
+}
+
+/*task12*/
+.ggg.fff .xxx {
+	color: red;
+}
+
+/*task13*/
+.kkk .xxx .ppp {
+	color: red;
+}
+
+/*task14*/
+#elem14.bbb {
+	color: red;
+}
+
+/*task15*/
+#elem15 .bbb {
+	color: red;
+}

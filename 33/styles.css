@@ -1,0 +1,23 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+p.bbb {
+	color: red;
+}
+
+/*task2*/
+p .bbb {
+	color: red;
+}
+
+/*task3*/
+.eee p.bbb {
+	color: red;
+}
+
+/*task4*/
+.eee p .bbb {
+	color: red;
+}
