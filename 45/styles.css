@@ -1,0 +1,39 @@
+q {
+    font-style: italic; /* Курсивное начертание */
+    quotes: "\00AB" "\00BB"; /* Меняем вид кавычек в цитате */
+   }
+
+/*task1*/
+[title] {
+    color: purple;
+}
+
+/*task2*/
+p[title] {
+    color: blue;
+}
+
+/*task3*/
+p[title="привет"] {
+    color: crimson;
+}
+
+/*task4*/
+a[href^="http://"] {
+    text-decoration: line-through;
+}
+
+/*task5*/
+a[href$=".html"] {
+    text-decoration: overline;
+}
+
+/*task6*/
+p[title*="привет"] {
+    color: deeppink;
+}
+
+/*task7*/
+p[class|="top"] {
+    color: rgb(0, 255, 157);
+}

@@ -1,0 +1,20 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#task1 {
+    width: 200px;
+    height: 200px;
+    background-color: #7e89eb;
+}
+
+/*task2*/
+#task2 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    width: 300px;
+    height: 200px;
+    background-color: #4dee99;
+}

@@ -1,0 +1,27 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#task1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 30px;
+}
+
+/*task2*/
+#task2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    background-color: #4dee99;
+}
+
+/*task3*/
+#task3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 100px;
+}

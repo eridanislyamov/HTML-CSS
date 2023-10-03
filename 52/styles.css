@@ -1,0 +1,39 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#task1 {
+    border-color: blue;
+    border-style: solid;
+    border-width: 5px;
+    width: 300px;
+    height: 200px;
+}
+
+/*task2*/
+#task2 {
+    border-color: red;
+    border-style: dotted;
+    border-width: 5px;
+    width: 300px;
+    height: 200px;
+}
+
+/*task3*/
+#task3 {
+    border-color: orange;
+    border-style: dashed;
+    border-width: 2px;
+    width: 300px;
+    height: 200px;
+}
+
+/*task4*/
+#task4 {
+    border-color: blue;
+    border-style: double;
+    border-width: 10px;
+    width: 300px;
+    height: 200px;
+}

@@ -1,0 +1,36 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+a {
+    color: red;
+    font-size: 24px;
+}
+a:hover {
+	text-decoration: none;
+}
+
+/*task2*/
+a.zzz {
+	color: green;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+
+/*task3*/
+#block a.zzz {
+	color: cyan;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+
+/*task4*/
+.block a.zzz {
+	color: blue;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}

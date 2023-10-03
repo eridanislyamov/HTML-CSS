@@ -1,0 +1,64 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#task1 li:first-child {
+    color: red;
+}
+
+/*task2*/
+#task2 li:last-child {
+    color: green;
+}
+
+/*task3*/
+#task3 li:first-child {
+    color: red;
+}
+
+#task3 li:last-child {
+    color: green;
+}
+
+/*task4*/
+#task4 li:nth-child(3) {
+    color: red;
+}
+
+/*task5*/
+#task5 li:nth-child(odd) {
+    color: red;
+}
+
+#task5 li:nth-child(even) {
+    color: green;
+}
+
+/*task6*/
+#task6 li:nth-child(3n) {
+    color: red;
+}
+
+/*task7*/
+#task7 li:nth-last-child(2) {
+    color: red;
+}
+
+/*task8*/
+#task8 li:only-child {
+    color: red;
+}
+
+/*task9*/
+#task9 li {
+    font-size: 20px;
+    border: 1px solid red;
+    width: 100px;
+    height: 25px;
+    margin-top: 5px;
+}
+
+#task9 li:empty {
+    border: 1px solid blue;
+}

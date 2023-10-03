@@ -1,0 +1,18 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#task1 {
+    list-style-type: lower-alpha;
+}
+
+/*task2*/
+#task2 {
+    list-style-type: lower-greek;
+}
+
+/*task3*/
+#task3 {
+    list-style-type: upper-alpha;
+}

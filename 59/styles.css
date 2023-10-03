@@ -1,0 +1,18 @@
+.task {
+    color: green;
+}
+
+/*task1*/
+#task1 {
+    list-style-type: square;
+}
+
+/*task1*/
+#task2 {
+    list-style-type: circle;
+}
+
+/*task1*/
+#task3 {
+    list-style-type: none;
+}
