@@ -1,0 +1,35 @@
+#wrapper {
+    box-sizing: border-box;
+    width: 700px;
+    margin: 20px auto;
+}
+
+.content {
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+#wrapper h1 {
+    text-align: center;
+    font-weight: unset;
+}
+
+.content a, .content a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}
+
+.content p {
+    text-align: justify;
+}
+
+.content a.more {
+    display: block;
+    text-align: right;
+}

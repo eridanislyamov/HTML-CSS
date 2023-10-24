@@ -1,0 +1,50 @@
+#wrapper {
+    width: 700px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+#menu {
+    display: flex;
+    height: 34px;
+    background-color: #484848;
+}
+
+#menu a {
+    width: 80px;
+    padding: 7px 5px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font: 14px Arial;
+    font-weight: bold;
+    background-color: #484848;
+}
+
+#menu a.active, #menu a:hover {
+    background-color: white;
+    color: #484848;
+}
+
+#content h1 {
+    text-align: center;
+}
+
+#content p {
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 17px;
+}
+
+#content p a, #content p a:visited {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#content p a:hover {
+    text-decoration: underline;
+    color: green;
+}

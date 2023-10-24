@@ -1,0 +1,40 @@
+#wrapper {
+    margin: 20px auto;
+    border: 1px solid black;
+    width: 1200px;
+}
+
+#header {
+    box-sizing: border-box;
+    height: 250px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#container {
+    display: flex;
+}
+
+#content {
+    height: 900px;
+    width: 860px;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#sidebar {
+    width: 300px;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid black;
+    margin-right: 40px;
+    order: -1;
+}
+
+#footer {
+    height: 100px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 20px;
+}

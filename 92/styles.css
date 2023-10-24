@@ -1,0 +1,15 @@
+#elem {
+	width: 600px;
+	margin: 0 auto;
+	border: 1px solid #000000;
+	text-align: justify;
+}
+
+#img {
+	float: right;
+	margin-left: 20px;
+}
+
+p {
+	margin: 20px 20px;
+}

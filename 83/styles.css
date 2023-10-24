@@ -1,0 +1,19 @@
+#elem1 {
+	border: 1px solid blue;
+
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	left: 100px;
+	bottom: 100px;
+}
+
+#elem2 {
+	border: 1px solid rgb(255, 0, 217);
+	
+	position: absolute;
+	top: 100px;
+	right: 200px;
+	left: 10px;
+	bottom: 50px;
+}

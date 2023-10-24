@@ -1,0 +1,62 @@
+body {
+    margin-bottom: 0;
+}
+
+body, #line1 h1 {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#line1 h1 {
+    margin-bottom: 5px;
+}
+
+.lines {
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+#line1 {
+    background-color: #008040;
+}
+
+#line1 h3 {
+    margin: 3px;
+    font-weight: unset;
+}
+
+.line {
+    margin: 0 auto;
+    text-align: justify;
+    width: 900px;
+}
+
+.line h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.line p, .line ol li {
+    font-size: 18px;
+}
+
+.wrapper li {
+    list-style-position: inside;
+    margin-bottom: 5px;
+}
+
+#line2 {
+    background-color: #C60304;
+}
+
+#line3 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 14px;
+    height: 130px;
+    background-color: #FF8040;
+}

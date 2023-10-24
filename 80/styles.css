@@ -1,0 +1,193 @@
+#parent1 {
+	width: 500px;
+	height: 400px;
+	border: 1px solid green;
+	position: relative;
+	margin: 20px auto;
+}
+
+#child1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+#parent2 {
+	width: 500px;
+	height: 400px;
+	background-color: #4DEE99;
+	position: relative;
+	margin: 20px auto;
+}
+
+#child21 {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+#child22 {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+}
+
+#parent3 {
+	width: 200px;
+	height: 400px;
+	border: 1px solid black;
+	position: relative;
+	margin: 20px auto;
+}
+
+#child31 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: red;
+	position: absolute;
+	top: 40px;
+	left: 50px;
+}
+
+#child32 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: yellow;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+#child33 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: green;
+	position: absolute;
+	top: 260px;
+	left: 50px;
+}
+
+#parent4 {
+	height: 500px;
+	width: 500px;
+	background-color: #4DEE99;
+	margin: 20px auto;
+	border-radius: 50%;
+	position: relative;
+}
+
+#child41 {
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+#child42 {
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 100px;
+	right: 100px;
+}
+
+#child43 {
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	position: absolute;
+	top: 215px;
+	right: 215px;
+}
+
+#child44 {
+	height: 20px;
+	width: 200px;
+	background-color: white;
+	position: absolute;
+	top: 350px;
+	right: 150px;
+}
+
+#parent5 {
+	height: 400px;
+	width: 400px;
+	background-color: #C4CD14;
+	margin: 20px auto;
+	border-radius: 50%;
+	position: relative;
+}
+
+#child51 {
+	height: 80px;
+	width: 80px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 80px;
+	left: 80px;
+	z-index: 2;
+}
+
+#child52 {
+	height: 80px;
+	width: 80px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 80px;
+	right: 80px;
+	z-index: 2;
+}
+
+#child53 {
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 200px;
+	right: 165px;
+	z-index: 2;
+}
+
+#child54 {
+	height: 300px;
+	width: 300px;
+	background-color: #C4CD14;
+	border-radius: 50%;
+	position: absolute;
+	top: 30px;
+	right: 50px;
+	z-index: 1;
+}
+
+#child55 {
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 155px;
+	right: 100px;
+}

@@ -1,0 +1,58 @@
+#parent1 {
+    width: 200px;
+    border: 1px solid orange;
+    margin-bottom: 50px;
+}
+
+#child1 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 25px 50px 100px 10px;
+}
+
+#parent2 {
+    width: 200px;
+    border: 1px solid orange;
+    margin-bottom: 50px;
+}
+
+#child2 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 100px 50px;
+}
+
+#parent3 {
+    width: 200px;
+    border: 1px solid orange;
+    margin-bottom: 50px;
+}
+
+#child3 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 25px 50px;
+}
+
+#parent4 {
+    width: 200px;
+    border: 1px solid orange;
+    margin-bottom: 50px;
+}
+
+#child4 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 100px 50px 30px;
+}
+
+#parent5 {
+    width: 400px;
+    border: 1px solid orange;
+}
+
+#child5 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 30px 100px 50px;
+}

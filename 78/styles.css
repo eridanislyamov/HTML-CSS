@@ -1,0 +1,88 @@
+.main {
+	height: 50px;
+	width: 50px;
+}
+
+#elem11 {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	border: 1px solid red; 
+}
+
+#elem12 {
+	position: absolute;
+	top: 80px;
+	left: 80px;
+	border: 1px solid blue;
+}
+
+#elem13 {
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	border: 1px solid green;
+}
+
+#elem21 {
+	position: absolute;
+	top: 10px;
+	left: 250px;
+	border: 1px solid red; 
+}
+
+#elem22 {
+	position: absolute;
+	top: 10px;
+	left: 320px;
+	border: 1px solid blue;
+}
+
+#elem23 {
+	position: absolute;
+	top: 10px;
+	left: 390px;
+	border: 1px solid green;
+}
+
+#elem31 {
+	position: absolute;
+	top: 250px;
+	left: 10px;
+	border: 1px solid red; 
+}
+
+#elem32 {
+	position: absolute;
+	top: 280px;
+	left: 40px;
+	border: 1px solid blue;
+}
+
+#elem33 {
+	position: absolute;
+	top: 310px;
+	left: 70px;
+	border: 1px solid green;
+}
+
+#elem41 {
+	position: absolute;
+	top: 250px;
+	left: 250px;
+	background-color: #FF8888;
+}
+
+#elem42 {
+	position: absolute;
+	top: 280px;
+	left: 280px;
+	background-color: #7E89EB;
+}
+
+#elem43 {
+	position: absolute;
+	top: 310px;
+	left: 310px;
+	background-color: #4DEE99;
+}

@@ -1,0 +1,19 @@
+#elem1 {
+	width: 500px;
+	height: 400px;
+	border: 1px solid red;
+	position: absolute;
+	left: 30px;
+}
+
+#elem2 {
+	width: 300px;
+	height: 100px;
+	border: 1px solid blue;
+}
+
+#elem4 {
+	width: 100px;
+	height: 200px;
+	border: 1px solid green;
+}

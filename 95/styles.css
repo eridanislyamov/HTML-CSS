@@ -1,0 +1,15 @@
+.elem {
+	width: 600px;
+	margin: 0 auto;
+	text-align: justify;
+	border: 1px solid blue;
+}
+
+#img {
+	float: left;
+	margin-right: 20px;
+}
+
+.clearfix {
+	clear: both;
+}
